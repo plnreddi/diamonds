@@ -2,9 +2,9 @@
 
 <sub>**LOL:** *All rights belong to their respective project owners where those owners do not endorse or
 directly support this project except by what is implied or permitted by their open source software licenses.
-Diamonds was created out of limited need for a startup of mine, so utilize considering that reality.
+Diamonds was created out of limited need for a startup of mine, so utilize considering that reality and at own risk.
 Its very particular in two concerns: security and scaling performance over the usual 'universal' cms gambit.
-Yet feel it is potentially universal as it grows to adapt.*</sub>
+yet feel it is potentially universal as it grows to adapt.*</sub>
 
 ## The Super Web Stack
 
