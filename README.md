@@ -3,10 +3,10 @@
 <sub>**LOL:** *All rights belong to their respective project owners where those owners do not endorse or
 directly support this project except by what is implied or permitted by their open source software licenses.
 Diamonds was created out of limited need for a startup of mine, so utilize considering that reality.
-Its very particular in two concerns: security and scaling performance over the usual 'universally awesome.'
-However, we feel it is potentially universal and synergistically-super but not for faint hearted, so tally-ho!*</sub>
+Its very particular in two concerns: security and scaling performance over the usual 'universal' cms gambit.
+Yet feel it is potentially universal as it grows to adapt.*</sub>
 
-## The Super Stack
+## The Super Web Stack
 
 **Diamonds** are coupled client/server apps composed of Compound, Angular, Polymer, and Famo.us Yeoman generators forming a super HMVC-to-MVVM web & device development stack in full. And yes while Compound alone's a "full stack" solution we found it didn't do things that Angular does bindingly bright *in browser* nor clairvoyantly adept like Polymer nor targets the emergent UI/X plural device standards of Material Design metaphors. While Compound has a strong performance backend its PolyFAng siblings all delegate to a myriad of specialized server platform options making the marriage of Diamonds' poly spouses most ideal.
 
