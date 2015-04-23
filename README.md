@@ -95,6 +95,7 @@ Now view app at http://&lt;host&gt:8080/
 ## Credits 
 - Eric Bidelman's [Angular Using Polymer Elements](https://www.youtube.com/watch?v=p1NpZ-0Op0w)
 - Web Components [Angular-Polymer Interop](https://github.com/webcomponents/angular-interop)
+- [Custom Elements.io](http://customelements.io)
 - [NG-Polymer-Elements](http://ngmodules.org/modules/ng-polymer-elements)
 
 ## Licenses
